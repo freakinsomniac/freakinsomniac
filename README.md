@@ -1,9 +1,5 @@
 <h1 align="center">Hi there! I'm Andre 👨‍💻</h1>
-<h4 align="center">Informatics student at Universitas Semarang — always tinkering with code and learning something new.</h4>
-
----
-
-🎯 **Driven by curiosity**, I spend my time experimenting with code, solving problems, and learning tools that can turn ideas into working software. Whether it's deploying a web app or training a model, I love building things that work and scale.
+<h4 align="center">Informatics student at Universitas Semarang — I love learning new things, especially those I haven’t explored before. Currently, I'm diving into web development with frameworks like Django and Laravel, as well as machine learning using tools such as TensorFlow and experimenting a bit with PyTorch too.</h4>
 
 ---
 
