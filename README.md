@@ -24,9 +24,6 @@ Feel free to connect with me or check out my repositories:
   <a href="https://github.com/freakinsomniac" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" alt="GitHub" />
   </a>
-  <a href="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=arch-linux&logoColor=black" target="_blank">
-    <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" height="35" alt="Arch Linux" />
-  </a>
 </p>
 
 ---
