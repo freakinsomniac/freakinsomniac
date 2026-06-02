@@ -1,25 +1,32 @@
-<h1 align="center">Hi there! I'm Andre 👨‍💻</h1>
-<h4 align="center">Informatics student at Universitas Semarang — I love learning new things, especially those I haven’t explored before. Currently, I'm diving into web development with frameworks like Django and Laravel, as well as machine learning using tools such as TensorFlow and experimenting a bit with PyTorch too.</h4>
+<h1 align="center">Hi there! I'm Andreas Damar Saputra 👨‍💻</h1>
+<h4 align="center">Informatics Engineering Student at Universitas Semarang | Linux Enthusiast | Network & Systems Implementer</h4>
 
----
+<p align="center">
+  I am passionate about systems infrastructure, network automation, and game development. I love diving deep into Linux customization, building backend solutions, and implementing scalable network authentication systems.
+</p>
 
-### 🛠️ Current Interests
-- 🤖 **Machine Learning**  
-  Developing predictive models using Python, TensorFlow, and real-world data.
-  
-- 💻 **Fullstack Web Development**  
-  Crafting applications with Django for the backend, Laravel for structured projects, and JavaScript to bring it all to life.
+### 🧰 Tech Stack & Tools
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python, C#, PHP, JavaScript, Bash |
+| **Infrastructure & Networking** | MikroTik, FreeRADIUS, daloRADIUS, Docker |
+| **Environment & OS** | CachyOS Linux, Hyprland, Git |
+| **Game Engine** | Unity (C#) |
+| **Web Frameworks** | Laravel, Django |
 
 ---
 
 ### 🔗 Get in Touch
-Feel free to connect with me :
+Feel free to connect with me or check out my repositories:
 
-<p>
+<p align="left">
   <a href="https://github.com/freakinsomniac" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" alt="GitHub" />
   </a>
-  <!-- Add more links below if needed -->
+  <a href="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=arch-linux&logoColor=black" target="_blank">
+    <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" height="35" alt="Arch Linux" />
+  </a>
 </p>
 
 ---
